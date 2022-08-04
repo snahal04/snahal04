@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning web development, Cloud Computing.
 - 🌱 I’m currently learning Front End
 - 🌐 Here is my working website made with wordpress : www.techinfohelp.com
-- 🕹️ Join our small family of 2000+ members in telegram : https://t.me/techinfohelp/
 - 💕 Love is everywhere, u just need to accept it.
 - 🔗 Connect me on Linkedin : https://www.linkedin.com/in/snahal-kumar-techinfohelp/
 
